@@ -1,6 +1,6 @@
 [
  {
-  "name": "game_patch_3.4.0.19150.pak ",
+  "name": "game_patch_3.4.0.19150.pak",
   "title": "AIMBOT HIGH DAMAGE",
   "dep": "〘  PUBG 3.4  〙_⊚ SUPPORT - 32/64 BIT_♻️ FEATURES ♻️_☑ AIM ASSIST HIGH _☑ MAGIC HEAD _☑ LESS RECOIL _☑ ADD CC 100_☑ HEADSHOT MAX__☑ ROOM DAMAGE MAX__☑ ROOM AIMBODY",
   "cv": "https://xcoderokan.xyz/res/a.jpg",
@@ -9,7 +9,8 @@
   "to": "/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/",
   "link": "https://www.dropbox.com/scl/fi/fsqngcxr52jf5dvh1db8c/game_patch_3.4.0.19150.pak?rlkey=374mp4g82tpiqsjyxtqx02eya&st=hc3u9agp&dl=1",
   "dosya": "/a/",
-  "del": "/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/"
+  "del": "/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/",
+  "isActive": true
  },
  {
   "name": "game_patch_3.4.0.19150.pak ",
